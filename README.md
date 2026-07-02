@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/4520d8af-4e7a-4f9f-b13d-42e0437933b7" /># Hi 👋, I'm Souvick Bhowmick
+# Hi 👋, I'm Souvick Bhowmick
 
 ### Full Stack Engineer | LLM Enthusiast
 
@@ -9,7 +9,7 @@
 - Can reach me at **souvickb30@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="display: flex; gap: 12px; align-items: center;">
 <a href="https://github.com/Souvick-bh" target="blank"><img align="center" src="github.png" alt="Souvick-bh" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/souvick-bhowmick-331ab922a" target="blank"><img align="center" src="linkedin.png" alt="souvick-bhowmick-331ab922a" height="30" width="30" /></a>
 <a href="https://twitter.com/SouvickBho17054" target="blank"><img align="center" src="x.png" alt="SouvickBho17054" height="30" width="30" /></a>

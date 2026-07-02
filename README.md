@@ -1,23 +1,21 @@
-# Hi 👋, I'm Souvick Bhowmick
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/4520d8af-4e7a-4f9f-b13d-42e0437933b7" /># Hi 👋, I'm Souvick Bhowmick
 
-### Full Stack Engineer
+### Full Stack Engineer | LLM Enthusiast
 
-- 🔭 I'm currently working on **Diffusion Language Model**
+- Currently working on **Diffusion Language Model**
 
-- 🌱 I'm currently learning **scalable, data-intensive software development.**
+- Learning **scalable, data-intensive software development | foundation models and it's internals**
 
-- 📫 How to reach me **souvickb30@gmail.com**
-
-- ⚡ Fun fact **I love aquascaping**
+- Can reach me at **souvickb30@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/Souvick-bh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Souvick-bh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/souvick-bhowmick-331ab922a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souvick-bhowmick-331ab922a" height="30" width="40" /></a>
-<a href="https://twitter.com/SouvickBho17054" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SouvickBho17054" height="30" width="40" /></a>
-<a href="https://medium.com/@souvickb30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@souvickb30" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/just_type_souvick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="just_type_souvick" height="30" width="40" /></a>
-<a href="https://leetcode.com/souvick-bh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="souvick-bh" height="30" width="40" /></a>
+<a href="https://github.com/Souvick-bh" target="blank"><img align="center" src="github.png" alt="Souvick-bh" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/souvick-bhowmick-331ab922a" target="blank"><img align="center" src="linkedin.png" alt="souvick-bhowmick-331ab922a" height="30" width="30" /></a>
+<a href="https://twitter.com/SouvickBho17054" target="blank"><img align="center" src="x.png" alt="SouvickBho17054" height="30" width="30" /></a>
+<a href="https://medium.com/@souvickb30" target="blank"><img align="center" src="medium.png" alt="@souvickb30" height="30" width="30" /></a>
+<a href="https://codeforces.com/profile/just_type_souvick" target="blank"><img align="center" src="codeforces.png" alt="just_type_souvick" height="30" width="30" /></a>
+<a href="https://leetcode.com/souvick-bh" target="blank"><img align="center" src="leetcode.png" alt="souvick-bh" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

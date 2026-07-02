@@ -10,11 +10,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/Souvick-bh" target="blank"><img align="center" src="github.png" alt="Souvick-bh" height="30" width="30" style="margin-right: 12px;"/></a>
-<a href="https://linkedin.com/in/souvick-bhowmick-331ab922a" target="blank"><img align="center" src="linkedin.png" alt="souvick-bhowmick-331ab922a" height="30" width="30" style="margin-right: 12px;"/></a>
-<a href="https://twitter.com/SouvickBho17054" target="blank"><img align="center" src="x.png" alt="SouvickBho17054" height="30" width="30" style="margin-right: 12px;"/></a>
-<a href="https://medium.com/@souvickb30" target="blank"><img align="center" src="medium.png" alt="@souvickb30" height="30" width="30" style="margin-right: 12px;"/></a>
-<a href="https://codeforces.com/profile/just_type_souvick" target="blank"><img align="center" src="codeforces.png" alt="just_type_souvick" height="30" width="30" style="margin-right: 12px;"/></a>
+<a href="https://github.com/Souvick-bh" target="blank"><img align="center" src="github.png" alt="Souvick-bh" height="30" width="30"/>&nbsp;&nbsp;&nbsp;</a>
+<a href="https://linkedin.com/in/souvick-bhowmick-331ab922a" target="blank"><img align="center" src="linkedin.png" alt="souvick-bhowmick-331ab922a" height="30" width="30"/>&nbsp;&nbsp;&nbsp;</a>
+<a href="https://twitter.com/SouvickBho17054" target="blank"><img align="center" src="x.png" alt="SouvickBho17054" height="30" width="30"/>&nbsp;&nbsp;&nbsp;</a>
+<a href="https://medium.com/@souvickb30" target="blank"><img align="center" src="medium.png" alt="@souvickb30" height="30" width="30"/>&nbsp;&nbsp;&nbsp;</a>
+<a href="https://codeforces.com/profile/just_type_souvick" target="blank"><img align="center" src="codeforces.png" alt="just_type_souvick" height="30" width="30"/>&nbsp;&nbsp;&nbsp;</a>
 <a href="https://leetcode.com/souvick-bh" target="blank"><img align="center" src="leetcode.png" alt="souvick-bh" height="30" width="30" /></a>
 </p>
 

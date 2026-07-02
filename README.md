@@ -19,17 +19,24 @@
 </p>
 
 ## Tech Stack and Tools
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="blank"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="30" height="30"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="blank"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="30" height="30"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="blank"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="30" height="30"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="blank"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="30" height="30"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="blank"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="30" height="30"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="blank"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="30" height="30"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="blank"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="30" height="30"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="blank"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="30" height="30"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="blank"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="30" height="30"/> </a></p>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="blank"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="30" height="30"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="blank"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="30" height="30"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="blank"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="30" height="30"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="blank"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="30" height="30"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="blank"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="30" height="30"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="blank"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="30" height="30"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="blank"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="30" height="30"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="blank"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="30" height="30"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="blank"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="30" height="30"/></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Souvick-bh&show_icons=true&locale=en&layout=compact" alt="Souvick-bh" /></p>
+##  GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Souvick-bh&show_icons=true&locale=en" alt="Souvick-bh" /></p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souvick-bh&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souvick-bh&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Souvick-bh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 

@@ -26,7 +26,7 @@
 
 - <a href="https://pplfulia.vercel.app/">**PPL**</a> : Cricket community website for a bunch of school friends
 
-- <a href="https://xs-pink.vercel.app/">**URL Shortener**</a> | <a href="https://souvick-bh.github.io/chitra/">**Image Editor**</a>
+- <a href="https://xs-pink.vercel.app/">**URL Shortener**</a> | <a href="https://souvick-bh.github.io/chitra/">**Image Editor**</a> | <a href="https://ai-diablo47.vercel.app/">**AI Search**</a>
 
 ## Connect with me
 <p align="left">

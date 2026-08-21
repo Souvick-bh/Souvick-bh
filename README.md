@@ -2,8 +2,6 @@
 
 ### Full Stack Engineer | LLM Enthusiast
 
-- Currently working on **Diffusion Language Model**
-
 - Learning **scalable, data-intensive software development | foundation models and it's internals**
 
 - Can reach me at **souvickb30@gmail.com**

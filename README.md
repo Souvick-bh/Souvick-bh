@@ -5,9 +5,9 @@
 
 ```txt
 ┌──────────────────────────────────────────────────────────────┐
-│  Full Stack Engineer • AI Systems • LLM Internals            │
+│  Full Stack Engineer • AI Systems                            │
 │                                                              │
-│  Building products that shouldn't exist yet.                 │
+│  Building products.                                          │
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -23,22 +23,16 @@
 $ whoami
 
 Name      : Souvick Bhowmick
-Role      : Full Stack Engineer
-Focus     : AI Systems • LLM Inference • Distributed Systems
+Focus     : Full Stack Engineer • AI Systems 
 Location  : India
 
 Currently Learning
 
 → Foundation Models
-→ GPU Inference
 → Distributed Computing
-→ Rust
-→ System Design
+→ AI Systems Design
 
-Mission
 
-Build software that scales from
-one user to one million users.
 ```
 
 ---
@@ -102,25 +96,24 @@ statistics and memories.
 ```txt
 ███████████████████░░░░░░  Backend Engineering
 
-████████████████░░░░░░░░░  Distributed Systems
+████████████████░░░░░░░░░  Frontend Systems
 
-██████████████░░░░░░░░░░░  LLM Internals
+██████████████░░░░░░░░░░░  AI Systems
 
 ███████████░░░░░░░░░░░░░░  Rust
 ```
 
 ---
 
-# 🌌 Current Obsession
+# 🌌 
 
 ```txt
 AI Agents
 Inference Engines
-Compiler Design
 Distributed Databases
 Memory Management
 Operating Systems
-Low-Level Networking
+Networking
 ```
 
 ---

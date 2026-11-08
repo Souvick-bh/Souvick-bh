@@ -11,7 +11,7 @@
 └──────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Systems;Reverse+Engineering+LLMs;Distributed+Systems+Enjoyer;Rust+%7C+Go+%7C+TypeScript;Always+Learning+Something+Impossible"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Systems;Reverse+Engineering+LLMs;Distributed+Systems+Enjoyer;Rust+%7C+TypeScript;Always+Learning+Something+Impossible"/>
 
 </div>
 
